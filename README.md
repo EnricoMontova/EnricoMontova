@@ -10,4 +10,4 @@
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit" />
 </div><br/>
 
-Cursando Engenharia da Computação na FAESA, atualmente no 4° período, buscando aprender cada dia mais sobre tecnologia e programação.
+🎓📚Cursando Engenharia da Computação na FAESA, buscando aprender cada dia mais sobre tecnologia e programação👨🏻‍💻
