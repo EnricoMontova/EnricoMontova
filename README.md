@@ -11,9 +11,9 @@
 
 
 ## About me:
-- 🙋🏻‍♂️ Age: 20;
-- 🎓 Education: Computer Engineering, 4th semester at FAESA;
-- 💼 Current job: None at the moment;
+- 🙋🏻‍♂️ Age: 21;
+- 🎓 Education: Computer Engineering, 5th semester at FAESA;
+- 💼 Current job: JOVEM APRENDIZ - GOL LINHAS AÉREAS;
 - 📌 Vitória, Brazil.
 
 ### Learn more about me:
