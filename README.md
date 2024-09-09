@@ -7,8 +7,6 @@
 </div><br/>
 
 ## GitHub stats:
-![Montovanelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=enricomontova&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enricomontova&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me:
 - 🙋🏻‍♂️ Age: 21;
