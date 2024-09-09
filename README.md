@@ -15,7 +15,3 @@
 - 🎓 Education: Computer Engineering, 5th semester at FAESA;
 - 💼 Current job: JOVEM APRENDIZ - GOL LINHAS AÉREAS;
 - 📌 Vitória, Brazil.
-
-### Learn more about me:
-- Commit to it every single day. It doesn't have to be perfect, you'll learn with the mistakes. Keep to it every day and watch the results roll in.
-- I love music, especially indie, but I also enjoy other genres such as metal, hip-hop, and pop.
