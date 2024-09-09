@@ -13,4 +13,4 @@
 - 🙋🏻‍♂️ Age: 21;
 - 🎓 Education: Computer Engineering, 5th semester at FAESA;
 - 💼 Current job: JOVEM APRENDIZ - GOL LINHAS AÉREAS;
-- 📌 Vitória, Brazil.
+- 📌 Vitória - ES, Brazil.
