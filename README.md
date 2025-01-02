@@ -10,6 +10,6 @@
 - 🎓 Education: Computer Engineering, 6th semester at FAESA;
 - 💼 Current job: JOVEM APRENDIZ - GOL LINHAS AÉREAS, since: 01/07/2024;
 - 📌 Vitória - ES, Brazil.
-- 🎨 Hobbies: I can play the violin and guitar, i love to learn more about music and wish I could create some songs someday. I like to work out and love to go out with friends, and I love to meet new places and to travel.
+- 🎨 Hobbies: I can play the violin and guitar, i love to learn more about music and wish I could create some songs someday. I like to work out, to go out with friends, and I love to meet new places and to travel.
 
 Everyday learning something new!
