@@ -11,7 +11,6 @@
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoMontova&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnricoMontova&show_icons=true&theme=transparent)
-
+| <a href="https://github.com/EnricoMontova/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EnricoMontova&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Enrico's github stats" /></a> | <a href="https://github.com/EnricoMontova/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoMontova&layout=donut&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
 Keep focus, learn everyday.
