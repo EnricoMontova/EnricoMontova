@@ -11,5 +11,7 @@
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoMontova&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnricoMontova&show_icons=true&theme=transparent)
 
-Everyday learning something new!
+Keep focus, learn everyday.
